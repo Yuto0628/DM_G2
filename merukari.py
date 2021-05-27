@@ -6,6 +6,7 @@ from sklearn.model_selection import train_test_split
 pd.set_option('display.float_format', lambda x:'%.5f' % x)
 import numpy as np
 
+#pushのテスト aaaaaaaaaaaaaaaaa
 
 # データタイプを指定
 types_dict_train = {'train_id':'int64', 'item_condition_id':'int8', 'price':'float64', 'shipping':'int8'}
